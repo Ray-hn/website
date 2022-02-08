@@ -1,0 +1,136 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header ul li a{
+	text-decoration: none;
+	padding: 15px;
+	color: #ffffff;
+	text-transform: uppercase;
+	padding-left: 50px;
+}
+header ul li a:hover{
+	color: #390b54;
+}
+header ul{
+	list-style: none;
+	padding-top: 45px;
+	margin-left: 400px;
+}
+header{
+	height: 890px;
+	background-image: url(rrrr.png);
+	background-repeat: no-repeat;
+	opacity: 0.9;
+	background-size: cover;
+	cursor: pointer;
+}
+.header-area ul{
+	display: flex;
+}
+.header-area{
+	text-align: right;
+}
+.header-area p{
+	display: inline;
+}
+.text{
+	text-align: center;
+}
+.text h1{
+	text-transform: uppercase;
+	padding-top: 310px;
+	color: #ffffff;
+}
+.text p{
+	color: #ffffff;
+}
+.first-section{
+	display: flex;
+	height: 500px;
+	margin-left: 215px;
+	margin-right: 215px;
+}
+.profile-pic{
+	padding-top: 25px;
+}
+
+.my-services h1{
+	text-transform: uppercase;
+	text-align: center;
+}
+.my-services p{
+	text-align: center;
+	color: #343434;
+}
+.my-services h1{
+    color: #343434;
+    padding-top: 80px;
+}
+.profile h1{
+	text-transform: uppercase;
+	font-weight: 500;
+	padding-top: 100px;
+	color: #343434;
+}
+.profile p{
+	line-height: 10px;
+	color: #343434;
+}
+.profile button{
+	padding: 20px 40px;
+	background-color: #390b54;
+	border: none;
+	color: #ffffff;
+	border-radius: 10px;
+	cursor: pointer;
+	font-size: 20px;
+}
+.secound-section{
+	margin-left: 215px;
+	margin-right: 215px;
+	background-color: #f7f7f7;
+}
+.web-section{
+	display: flex;
+	text-align: center;
+	height: 675px;
+}
+.active{
+	border-top: 5px solid #390b54;
+	border-bottom: 5px solid #390b54;
+	border-left: 2px solid #390b54;
+	border-right: 2px solid #390b54;
+	color: #390b54;
+}
+.active h2{
+	font-weight: bold;
+}
+.defalt{
+	border: 2px solid #626262;
+}
+.web-desiging{
+	height: 240px;
+	width: 265px;
+	margin: 15px;
+}
+.web-desiging h2{
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 22px;
+	padding-top: 20px;
+}
+.web-desiging p{
+	line-height: 10px;
+}
+.web-desiging:hover{
+	color: #390b54;
+	border: 2px solid #390b54;
+	border-top: 5px solid #390b54;
+	border-bottom: 5px solid #390b54;
+}
+.web-desiging h2:hover{
+	color: #390b54;
+	font-weight: 800;
+	box-sizing: border-box;
+}
